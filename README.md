@@ -4,8 +4,7 @@ _______________________________________
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tadeujr/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tadeupmjr/)
 
-![Tadeu GitHub stats](https://github-readme-stats.vercel.app/api?username=Tadeujr&show_icons=true&theme=tokyonight)
-
+![https://github-readme-stats.vercel.app/api?username=Tadeujr&show_icons=true](https://github-readme-stats.vercel.app/api?username=Tadeujr&show_icons=true)
 
 
 ### Tecnologias utilizo e Projetos linkados
