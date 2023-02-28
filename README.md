@@ -1,5 +1,5 @@
 ### Olá, eu sou o Tadeu 😁
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 Sou recém-formado em Análise de Sistemas. Sou autodidata e tenho habilidade para aprender coisas novas e isso me permitiu aprender coisas fora do meu campo de estudo, como tocar violão e cozinhar. 
