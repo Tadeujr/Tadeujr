@@ -1,13 +1,22 @@
-### Olá eu sou o Tadeu 😁
+### Olá, eu sou o Tadeu 😁
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+Sou recém-formado em Análise de Sistemas. Sou autodidata e tenho habilidade para aprender coisas novas e isso me permitiu aprender coisas fora do meu campo de estudo, como tocar violão e cozinhar. 
+
+Na minha jornada como desenvolvedor, sempre procurei por oportunidades de aprendizado e crescimento. Tive a oportunidade de completar estágios técnicos onde utilizava diversas linguagens de programação como Javascript (Node, Typescript e Nestjs), SQL, Python(Databricks) e Php. Além de trabalhar em projetos em equipe utilizando metodologias ágeis. Sou uma pessoa altamente motivada e gosto de enfrentar desafios técnicos. 
+</p>
+
 _______________________________________
-### Redes Sociais 
+### 🧡 Redes Sociais 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tadeujr/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tadeupmjr/)
 
 ![https://github-readme-stats.vercel.app/api?username=Tadeujr&show_icons=true](https://github-readme-stats.vercel.app/api?username=Tadeujr&show_icons=true)
 
 
-### Tecnologias que utilizo
+
+### 💻 Tecnologias que utilizo 
 _______________________________________
 
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Tadeujr/lista-backend)
