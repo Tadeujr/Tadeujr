@@ -8,12 +8,12 @@ Na minha jornada como desenvolvedor, sempre procurei por oportunidades de aprend
 </p>
 
 _______________________________________
-### 🔎 Overview <p> 
+<!-- ### 🔎 Overview <p> 
 
   ![https://github-readme-stats.vercel.app/api?username=Tadeujr&show_icons=true](https://github-readme-stats.vercel.app/api?username=Tadeujr&show_icons=true)
 
 
-_______________________________________
+_______________________________________… -->
 ### 💻 Tecnologias que utilizo 
 
 
