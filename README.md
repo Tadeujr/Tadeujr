@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Sou formado em Análise de Sistemas. Sou autodidata e tenho habilidade para aprender coisas novas e isso me permitiu aprender coisas fora do meu campo de estudo, como tocar violão e cozinhar. 
+Sou formado em Análise de Sistemas. Tenho habilidade para aprender coisas novas e isso me permitiu aprender coisas fora do meu campo de estudo, como tocar violão e cozinhar. 
 
 Na minha jornada como desenvolvedor, sempre procurei por oportunidades de aprendizado e crescimento. Tive a oportunidade de completar estágios técnicos onde utilizava diversas linguagens de programação como Javascript (Node, Typescript e Nestjs), SQL, Python(Databricks) e Php. Além de trabalhar em projetos em equipe utilizando metodologias ágeis. Sou uma pessoa altamente motivada e gosto de enfrentar desafios técnicos. 
 </p>
